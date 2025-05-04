@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "CarChange",
+    "slug": "carchange-preview",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "sdkVersion": "49.0.0",
+    "platforms": ["ios", "android", "web"],
+    "assetBundlePatterns": ["**/*"],
+    "jsEngine": "hermes"
+  }
+}
